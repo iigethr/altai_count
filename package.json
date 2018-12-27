@@ -1,0 +1,16 @@
+{
+  "name": "altai_count",
+  "title": "Altai Count",
+  "version": "1.0.6",
+  "description": "Set maximum characters and display remaining.",
+  "main": "dist/altai_count.js",
+  "dependencies": {
+    "jquery": "^3.0"
+  },
+  "repository": {
+    "url": "https://github.com/iigethr/altai_count",
+    "type": "git"
+  },
+  "author": "Team IIGETHR <wearesocial@iigethr.com>",
+  "license": "MIT"
+}
